@@ -14,3 +14,6 @@
 
 ## 3 Dataset:
 <li> <a href = "https://github.com/luckymouse96/Machine-Learning/blob/main/pima-indians-diabetes.csv"> Dữ liệu dự án </a> </li>
+
+## 4 Code:
+<li> <a href = "https://github.com/luckymouse96/Machine-Learning/blob/main/main_code.ipynb"> Dữ liệu dự án </a> </li>
